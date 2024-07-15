@@ -57,10 +57,3 @@ This Python application implements a customizable Naughts and Crosses (Tic-Tac-T
 ## Usage
 
 To start the game, run the script from the command line. The game will prompt you for the board size and the number of symbols in a row needed to win. After these inputs, the game board will be displayed, and you can start playing by clicking on the cells.
-
-## Example
-
-```python
-if __name__ == "__main__":
-    game = NaughtsAndCrossesGame()
-    game.main()
