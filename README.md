@@ -4,6 +4,9 @@
 
 This Python application implements a customizable Naughts and Crosses (Tic-Tac-Toe) game using the tkinter library for the graphical user interface. The game allows players to specify the size of the board and the number of consecutive symbols needed to win, providing a flexible gaming experience.
 
+![snake](https://github.com/user-attachments/assets/3345a8cd-4209-4274-9075-97df7b005af0)
+
+
 ## Classes
 
 ### NaughtsAndCrossesGame
